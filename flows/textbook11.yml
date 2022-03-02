@@ -2,7 +2,7 @@ id: sample_flow
 title: 
   数理工Ⅱの確認テスト
 welcome_page_content: |
-  このフローでは、数理工Ⅱの第１週の内容を復習します。
+  このフローでは、数理工Ⅱの第11週の内容を復習します。
   - 問題数は3問です. 
   - 採点は提出後に行われます. 
   - このフローには何度でも挑戦することができます. 
@@ -13,8 +13,10 @@ page_groups:
 - 
   pages:
   -
-    {{include (pages/week1_q1.1(1).yml)}}
+    {{include (pages/week11_q17.1(1).yml)}}
   -
-    {{include (pages/week1_q1.1(2).yml)}}
+    {{include (pages/week11_q17.2(1).yml)}}
   -
-    {{include (pages/week1_q1.1(3).yml)}}
+    {{include (pages/week11_q17.2(2).yml)}}
+
+ 
