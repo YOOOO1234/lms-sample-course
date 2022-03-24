@@ -1,4 +1,4 @@
-id: sample_flow
+id: week8
 title: 
   数理工Ⅱの確認テスト
 welcome_page_content: |
@@ -13,12 +13,12 @@ page_groups:
 - 
   pages:
   -
-    {{include (pages/week8_q11.1(1).yml)}}
+    {{include (pages/week8_q11.1_1.yml)}}
   -
-    {{include (pages/week8_q11.1(2).yml)}}
+    {{include (pages/week8_q11.1_2.yml)}}
   -
-    {{include (pages/week8_q11.2(1).yml)}}
+    {{include (pages/week8_q11.2_1.yml)}}
   -
-    {{include (pages/week8_q11.2(2).yml)}}
+    {{include (pages/week8_q11.2_2.yml)}}
  
  

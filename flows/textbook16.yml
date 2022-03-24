@@ -1,4 +1,4 @@
-id: sample_flow
+id: week16
 title: 
   数理工Ⅱの確認テスト
 welcome_page_content: |
@@ -13,9 +13,9 @@ page_groups:
 - 
   pages:
   -
-    {{include (pages/week16_q22.1(1).yml)}}
+    {{include (pages/week16_q22.1_1.yml)}}
   -
-    {{include (pages/week16_q22.2(1).yml)}}
+    {{include (pages/week16_q22.2_1.yml)}}
   
 
  
